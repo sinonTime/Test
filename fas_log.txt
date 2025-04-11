@@ -1,0 +1,115 @@
+[2025-04-11 00:11:11] INFO: Config watcher started
+[2025-04-11 00:11:16] INFO: Switch mode: balance -> fast
+[2025-04-11 00:11:45] INFO: Switch mode: fast -> balance
+[2025-04-11 00:23:30] INFO: Switch mode: balance -> fast
+[2025-04-11 00:25:15] INFO: Switch mode: fast -> balance
+[2025-04-11 00:25:40] INFO: Switch mode: balance -> fast
+[2025-04-11 00:25:47] INFO: Switch mode: fast -> powersave
+[2025-04-11 00:26:58] INFO: Switch mode: powersave -> fast
+[2025-04-11 00:27:03] INFO: Switch mode: fast -> balance
+[2025-04-11 00:27:12] INFO: Switch mode: balance -> fast
+[2025-04-11 00:27:19] INFO: Switch mode: fast -> powersave
+[2025-04-11 00:31:56] INFO: Switch mode: powersave -> fast
+[2025-04-11 00:32:08] INFO: Switch mode: fast -> balance
+[2025-04-11 00:33:57] INFO: Switch mode: balance -> powersave
+[2025-04-11 00:34:02] INFO: Switch mode: powersave -> balance
+[2025-04-11 00:34:05] INFO: Switch mode: balance -> fast
+[2025-04-11 00:34:12] INFO: Switch mode: fast -> powersave
+[2025-04-11 00:36:03] INFO: Switch mode: powersave -> fast
+[2025-04-11 00:36:27] INFO: Switch mode: fast -> balance
+[2025-04-11 00:36:30] INFO: Switch mode: balance -> fast
+[2025-04-11 00:37:54] INFO: Switch mode: fast -> balance
+[2025-04-11 00:46:58] INFO: Switch mode: balance -> powersave
+[2025-04-11 09:11:32] INFO: Switch mode: powersave -> balance
+[2025-04-11 09:22:19] INFO: Switch mode: balance -> fast
+[2025-04-11 09:23:35] INFO: Switch mode: fast -> balance
+[2025-04-11 09:23:36] INFO: Switch mode: balance -> fast
+[2025-04-11 09:23:45] INFO: Switch mode: fast -> balance
+[2025-04-11 09:24:57] INFO: Switch mode: balance -> fast
+[2025-04-11 09:25:06] INFO: Switch mode: fast -> balance
+[2025-04-11 09:27:09] INFO: Switch mode: balance -> fast
+[2025-04-11 09:27:26] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:29:19] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:29:23] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:29:29] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:29:31] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:35:22] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:35:36] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:35:56] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:36:01] INFO: Switch mode: fast -> balance
+[2025-04-11 09:36:06] INFO: Switch mode: balance -> powersave
+[2025-04-11 09:36:41] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:36:44] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:38:51] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:38:55] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:39:02] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:40:01] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:40:22] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:40:32] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:40:53] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:40:56] INFO: Switch mode: fast -> powersave
+[2025-04-11 09:41:32] INFO: Switch mode: powersave -> fast
+[2025-04-11 09:41:34] INFO: Switch mode: fast -> balance
+[2025-04-11 09:42:53] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:09:19] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:11:19] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:12:28] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:12:36] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:13:11] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:13:41] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:13:41] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:13:45] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:14:05] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:14:32] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:14:36] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:14:43] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:15:48] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:16:01] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:17:33] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:17:56] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:19:06] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:19:38] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:20:56] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:21:05] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:21:22] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:21:32] INFO: Switch mode: balance -> powersave
+[2025-04-11 10:22:25] INFO: Switch mode: powersave -> balance
+[2025-04-11 10:22:36] INFO: Switch mode: balance -> performance
+[2025-04-11 10:22:43] INFO: New fas buffer on: [com.miHoYo.Nap]
+[2025-04-11 10:27:12] INFO: Switch mode: performance -> balance
+[2025-04-11 10:27:23] INFO: Switch mode: balance -> performance
+[2025-04-11 10:27:23] INFO: New fas buffer on: [com.miHoYo.Nap]
+[2025-04-11 10:41:38] INFO: Switch mode: performance -> balance
+[2025-04-11 10:51:34] INFO: New fas buffer on: [com.hypergryph.arknights]
+[2025-04-11 11:20:24] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:25] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:26] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:27] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:28] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:29] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:30] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:31] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:32] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:33] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:34] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:35] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:36] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:37] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:38] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:39] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:40] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:41] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:42] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:43] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:44] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:45] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:46] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:47] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:48] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:49] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:50] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:51] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:52] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:53] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:54] ERROR: Failed to dump windows: Dump error, retrying
+[2025-04-11 11:20:55] ERROR: Failed to dump windows: Dump error, retrying
